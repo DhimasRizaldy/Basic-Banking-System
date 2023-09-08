@@ -6,7 +6,6 @@ Kelas : BE-JS1
 Algoritma Bank System
 ========================================================
 Ketentuan Pengerjaan :
-
 1. Membuat repositori baru di GitHub dengan nama "Basic-Banking-System"
 2. Salin file bank_account.js Challenge 1 ke direktori proyek di repositori baru
 3. Membuat file JavaScript baru dengan nama banking_system.js
@@ -15,13 +14,11 @@ Ketentuan Pengerjaan :
 6. Commit dan push perubahan ke repositori GitHub
 ========================================================
 Kriteria Pengumpulan Challenge :
-
 1. Menggunakan modular class OOP (40 points)
 2. Mengurai proses berpikir dengan menggunakan flowchart (30 points)
 3. Menggunakan GitHub untuk mengelola repository (30 points)
 ========================================================
 Langkah-Langkah Pengerjaan :
-
 Lanjutan langkah-langkah pengerjaan:
 ● Implementasikan kelas BankAccount dengan
 minimal dua metode:
@@ -37,10 +34,8 @@ asynchronous. Misalnya, setelah melakukan deposit
 atau withdrawal, Anda dapat menunda eksekusi
 selama beberapa detik sebelum mengembalikan
 hasil operasi.
-
 =======================================================
 Algoritma Bank System :
-
 1. Mulai
 2. Inisialisasi saldo awal akun bank.
 3. Tampilkan pesan "Selamat Datang di ATM Binar."
